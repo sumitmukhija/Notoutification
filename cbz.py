@@ -32,4 +32,4 @@ def showNotification(match):
 
 while(True):
 	processResponse()
-	time.sleep(5)
+	time.sleep(60)
